@@ -1,3 +1,5 @@
+[![GitHub release](https://img.shields.io/github/release/espressif/idf-eclipse-plugin.svg)](https://github.com/espressif/idf-eclipse-plugin/releases/latest) 
+
 # idf-eclipse-plugin-dev
 idf-eclipse-plugin-dev
 
